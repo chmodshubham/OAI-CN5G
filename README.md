@@ -13,12 +13,12 @@ This repository provides guidance for deploying the OpenAirInterface (OAI) 5G Co
 
 Ensure your machine meets the following specifications:
 
-| Component   | Minimum Specification    |
-| :---------- | :----------------------- |
-| **OS**      | Ubuntu 22.04 LTS         |
-| **CPU**     | 8 cores x86_64 @ 3.5 GHz |
-| **RAM**     | 32 GB                    |
-| **Network** | 2 Interfaces             |
+| Component   | Minimum Specification | Recommended Specification |
+| :---------- | :-------------------- | ------------------------- |
+| **OS**      | Ubuntu 22.04 LTS      | Ubuntu 22.04 LTS          |
+| **CPU**     | 4 cores               | 8 cores x86_64 @ 3.5 GHz  |
+| **RAM**     | 16 GB                 | 32 GB                     |
+| **Network** | 1 Interface           | 2 Interfaces              |
 
 ### 1.2 Install Pre-requisites & Docker
 
